@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/theKingSTL/Leetcode-work/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/theKingSTL/Leetcode-work/tree/master/0219-contains-duplicate-ii) |
 | [1200-minimum-absolute-difference](https://github.com/theKingSTL/Leetcode-work/tree/master/1200-minimum-absolute-difference) |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/theKingSTL/Leetcode-work/tree/master/0209-minimum-size-subarray-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
