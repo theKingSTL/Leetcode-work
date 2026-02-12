@@ -33,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
