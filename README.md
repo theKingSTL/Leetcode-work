@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/theKingSTL/Leetcode-work/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/theKingSTL/Leetcode-work/tree/master/0057-insert-interval) |
+| [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/theKingSTL/Leetcode-work/tree/master/0209-minimum-size-subarray-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/theKingSTL/Leetcode-work/tree/master/0219-contains-duplicate-ii) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Sliding Window
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0112-path-sum/) | Easy |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
 <!---LeetCode Topics End-->
