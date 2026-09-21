@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theKingSTL/Leetcode-work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/theKingSTL/Leetcode-work/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/theKingSTL/Leetcode-work/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/theKingSTL/Leetcode-work/tree/master/0057-insert-interval) |
 | [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
@@ -159,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0835-image-overlap/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0039-combination-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0039-combination-sum/) | Medium |
 <!---LeetCode Topics End-->
