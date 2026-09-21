@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
