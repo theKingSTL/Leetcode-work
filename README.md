@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/theKingSTL/Leetcode-work/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/theKingSTL/Leetcode-work/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/theKingSTL/Leetcode-work/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
 | [3870-count-commas-in-range](https://github.com/theKingSTL/Leetcode-work/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
