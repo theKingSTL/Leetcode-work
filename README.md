@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/theKingSTL/Leetcode-work/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
+| [1470-shuffle-the-array](https://github.com/theKingSTL/Leetcode-work/tree/main/1470-shuffle-the-array/) | Easy |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/theKingSTL/Leetcode-work/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/theKingSTL/Leetcode-work/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1929-concatenation-of-array](https://github.com/theKingSTL/Leetcode-work/tree/main/1929-concatenation-of-array/) | Easy |
