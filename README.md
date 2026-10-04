@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0125-valid-palindrome](https://github.com/theKingSTL/Leetcode-work/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3498-reverse-degree-of-a-string/) | Easy |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/theKingSTL/Leetcode-work/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/theKingSTL/Leetcode-work/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/theKingSTL/Leetcode-work/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -181,8 +184,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/0020-valid-parentheses/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->
