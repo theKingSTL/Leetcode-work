@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
@@ -185,9 +186,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/0020-valid-parentheses/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
