@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/theKingSTL/Leetcode-work/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/theKingSTL/Leetcode-work/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/theKingSTL/Leetcode-work/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0835-image-overlap/) | Medium |
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/theKingSTL/Leetcode-work/tree/master/1200-minimum-absolute-difference) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/theKingSTL/Leetcode-work/tree/master/0219-contains-duplicate-ii) |
+| [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
+| [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/theKingSTL/Leetcode-work/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
+| [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
