@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/theKingSTL/Leetcode-work/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/theKingSTL/Leetcode-work/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
+| [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0836-rectangle-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0836-rectangle-overlap/) | Easy |
 | [3870-count-commas-in-range](https://github.com/theKingSTL/Leetcode-work/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/theKingSTL/Leetcode-work/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Simulation
@@ -216,4 +218,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
