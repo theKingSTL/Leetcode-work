@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0061-rotate-list/) | Medium |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
