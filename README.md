@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0057-insert-interval](https://github.com/theKingSTL/Leetcode-work/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
+| [0118-pascals-triangle](https://github.com/theKingSTL/Leetcode-work/tree/main/0118-pascals-triangle/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/theKingSTL/Leetcode-work/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
+| [0118-pascals-triangle](https://github.com/theKingSTL/Leetcode-work/tree/main/0118-pascals-triangle/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/theKingSTL/Leetcode-work/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 ## Simulation
