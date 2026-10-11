@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/theKingSTL/Leetcode-work/tree/main/1929-concatenation-of-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [2778-sum-of-squares-of-special-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -280,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 <!---LeetCode Topics End-->
