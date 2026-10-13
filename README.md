@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/theKingSTL/Leetcode-work/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/theKingSTL/Leetcode-work/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/theKingSTL/Leetcode-work/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/3731-find-missing-elements/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/theKingSTL/Leetcode-work/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/theKingSTL/Leetcode-work/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
