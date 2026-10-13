@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/theKingSTL/Leetcode-work/tree/main/0190-reverse-bits/) | Easy |
 | [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -276,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
+| [0190-reverse-bits](https://github.com/theKingSTL/Leetcode-work/tree/main/0190-reverse-bits/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
