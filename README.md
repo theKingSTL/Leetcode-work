@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/theKingSTL/Leetcode-work/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/theKingSTL/Leetcode-work/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/theKingSTL/Leetcode-work/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0226-invert-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0543-diameter-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -325,4 +328,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theKingSTL/Leetcode-work/tree/main/0005-longest-palindromic-substring/) | Medium |
+## DP on Trees
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
