@@ -135,12 +135,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0061-rotate-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/theKingSTL/Leetcode-work/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/theKingSTL/Leetcode-work/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/theKingSTL/Leetcode-work/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
@@ -262,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/theKingSTL/Leetcode-work/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/theKingSTL/Leetcode-work/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/theKingSTL/Leetcode-work/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/theKingSTL/Leetcode-work/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/theKingSTL/Leetcode-work/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
