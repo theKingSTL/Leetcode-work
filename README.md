@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/theKingSTL/Leetcode-work/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/theKingSTL/Leetcode-work/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/3731-find-missing-elements/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/theKingSTL/Leetcode-work/tree/main/0258-add-digits/) | Easy |
 | [0836-rectangle-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0836-rectangle-overlap/) | Easy |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/theKingSTL/Leetcode-work/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/theKingSTL/Leetcode-work/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
