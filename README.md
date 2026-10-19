@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/theKingSTL/Leetcode-work/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0039-combination-sum/) | Medium |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/theKingSTL/Leetcode-work/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/theKingSTL/Leetcode-work/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
+| [0056-merge-intervals](https://github.com/theKingSTL/Leetcode-work/tree/main/0056-merge-intervals/) | Medium |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/theKingSTL/Leetcode-work/tree/main/0217-contains-duplicate/) | Easy |
@@ -340,4 +342,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0056-merge-intervals](https://github.com/theKingSTL/Leetcode-work/tree/main/0056-merge-intervals/) | Medium |
 <!---LeetCode Topics End-->
