@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/theKingSTL/Leetcode-work/tree/main/0013-roman-to-integer/) | Easy |
 | [0050-powx-n](https://github.com/theKingSTL/Leetcode-work/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/theKingSTL/Leetcode-work/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/theKingSTL/Leetcode-work/tree/main/0258-add-digits/) | Easy |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theKingSTL/Leetcode-work/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0062-unique-paths](https://github.com/theKingSTL/Leetcode-work/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/theKingSTL/Leetcode-work/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/theKingSTL/Leetcode-work/tree/main/0056-merge-intervals/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/theKingSTL/Leetcode-work/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
