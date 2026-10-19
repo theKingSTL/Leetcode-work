@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-length-of-subarray-with-positive-product](https://github.com/theKingSTL/Leetcode-work/tree/main/1567-maximum-length-of-subarray-with-positive-product/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/theKingSTL/Leetcode-work/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1929-concatenation-of-array](https://github.com/theKingSTL/Leetcode-work/tree/main/1929-concatenation-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [2778-sum-of-squares-of-special-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1200-minimum-absolute-difference](https://github.com/theKingSTL/Leetcode-work/tree/master/1200-minimum-absolute-difference) |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/theKingSTL/Leetcode-work/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/theKingSTL/Leetcode-work/tree/main/2357-make-array-zero-by-subtracting-equal-amounts/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/theKingSTL/Leetcode-work/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/3731-find-missing-elements/) | Easy |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/theKingSTL/Leetcode-work/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/theKingSTL/Leetcode-work/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/theKingSTL/Leetcode-work/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
