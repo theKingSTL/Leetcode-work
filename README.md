@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/theKingSTL/Leetcode-work/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
