@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/theKingSTL/Leetcode-work/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/theKingSTL/Leetcode-work/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0061-rotate-list/) | Medium |
+| [0086-partition-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0086-partition-list/) | Medium |
 | [0125-valid-palindrome](https://github.com/theKingSTL/Leetcode-work/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0061-rotate-list/) | Medium |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
+| [0086-partition-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
