@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/theKingSTL/Leetcode-work/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/theKingSTL/Leetcode-work/tree/main/0217-contains-duplicate/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/theKingSTL/Leetcode-work/tree/master/0219-contains-duplicate-ii) |
+| [0283-move-zeroes](https://github.com/theKingSTL/Leetcode-work/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/theKingSTL/Leetcode-work/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/theKingSTL/Leetcode-work/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/theKingSTL/Leetcode-work/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0148-sort-list/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0283-move-zeroes](https://github.com/theKingSTL/Leetcode-work/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/theKingSTL/Leetcode-work/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/theKingSTL/Leetcode-work/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
