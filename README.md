@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/theKingSTL/Leetcode-work/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/theKingSTL/Leetcode-work/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/theKingSTL/Leetcode-work/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0064-minimum-path-sum/) | Medium |
 | [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/theKingSTL/Leetcode-work/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/theKingSTL/Leetcode-work/tree/main/0118-pascals-triangle/) | Easy |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/theKingSTL/Leetcode-work/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/theKingSTL/Leetcode-work/tree/main/0062-unique-paths/) | Medium |
+| [0064-minimum-path-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0064-minimum-path-sum/) | Medium |
 | [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/theKingSTL/Leetcode-work/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0064-minimum-path-sum](https://github.com/theKingSTL/Leetcode-work/tree/main/0064-minimum-path-sum/) | Medium |
 | [0835-image-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0835-image-overlap/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
