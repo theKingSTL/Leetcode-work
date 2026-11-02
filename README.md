@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/theKingSTL/Leetcode-work/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/theKingSTL/Leetcode-work/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/theKingSTL/Leetcode-work/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/theKingSTL/Leetcode-work/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 | [0835-image-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0835-image-overlap/) | Medium |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/theKingSTL/Leetcode-work/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/theKingSTL/Leetcode-work/tree/main/0217-contains-duplicate/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/theKingSTL/Leetcode-work/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0645-set-mismatch](https://github.com/theKingSTL/Leetcode-work/tree/main/0645-set-mismatch/) | Easy |
 | [0937-reorder-data-in-log-files](https://github.com/theKingSTL/Leetcode-work/tree/main/0937-reorder-data-in-log-files/) | Medium |
 | [1200-minimum-absolute-difference](https://github.com/theKingSTL/Leetcode-work/tree/master/1200-minimum-absolute-difference) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/theKingSTL/Leetcode-work/tree/main/0066-plus-one/) | Easy |
 | [0070-climbing-stairs](https://github.com/theKingSTL/Leetcode-work/tree/main/0070-climbing-stairs/) | Easy |
 | [0258-add-digits](https://github.com/theKingSTL/Leetcode-work/tree/main/0258-add-digits/) | Easy |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0836-rectangle-overlap/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/theKingSTL/Leetcode-work/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3870-count-commas-in-range](https://github.com/theKingSTL/Leetcode-work/tree/main/3870-count-commas-in-range/) | Easy |
