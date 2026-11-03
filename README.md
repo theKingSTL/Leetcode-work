@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/theKingSTL/Leetcode-work/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/theKingSTL/Leetcode-work/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3731-find-missing-elements](https://github.com/theKingSTL/Leetcode-work/tree/main/3731-find-missing-elements/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/theKingSTL/Leetcode-work/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0836-rectangle-overlap/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/theKingSTL/Leetcode-work/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/theKingSTL/Leetcode-work/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/theKingSTL/Leetcode-work/tree/main/3870-count-commas-in-range/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
 ## String
