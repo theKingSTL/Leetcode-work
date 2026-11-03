@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/theKingSTL/Leetcode-work/tree/main/0258-add-digits/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/theKingSTL/Leetcode-work/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0836-rectangle-overlap](https://github.com/theKingSTL/Leetcode-work/tree/main/0836-rectangle-overlap/) | Easy |
+| [2409-count-days-spent-together](https://github.com/theKingSTL/Leetcode-work/tree/main/2409-count-days-spent-together/) | Easy |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/theKingSTL/Leetcode-work/tree/main/3079-find-the-sum-of-encrypted-integers/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/theKingSTL/Leetcode-work/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/theKingSTL/Leetcode-work/tree/main/3870-count-commas-in-range/) | Easy |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1268-search-suggestions-system](https://github.com/theKingSTL/Leetcode-work/tree/main/1268-search-suggestions-system/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/theKingSTL/Leetcode-work/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/theKingSTL/Leetcode-work/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [2409-count-days-spent-together](https://github.com/theKingSTL/Leetcode-work/tree/main/2409-count-days-spent-together/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/theKingSTL/Leetcode-work/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Trie
